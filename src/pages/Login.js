@@ -42,7 +42,7 @@ export default function App() {
       resizeMode="cover"
     >
 
-      <Text style={styles.astromembers}>AstroMembers</Text>
+      <Text style={styles.astromembers}>CineGallery</Text>
 
       <View style={styles.visao}>
         <TextInput
